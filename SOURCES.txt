@@ -1,0 +1,9 @@
+LICENSE
+pyproject.toml
+setup.cfg
+src/mypackage/__init__.py
+src/mypackage/snake_game.py
+src/snake_yc.egg-info/PKG-INFO
+src/snake_yc.egg-info/SOURCES.txt
+src/snake_yc.egg-info/dependency_links.txt
+src/snake_yc.egg-info/top_level.txt
